@@ -1,7 +1,7 @@
 # API das Ninas!
 
 ## Essa API foi feita para gerenciar a rede social Ninas! 
-### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras em sua criação de esturtups. 
+### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras em sua criação de Sturtups. 
 
 #### Idealizadoras:
  1. [Camila Fersan](
