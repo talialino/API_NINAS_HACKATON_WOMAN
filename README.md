@@ -14,7 +14,7 @@
  1. **[Bianca Amaral](linkedin.com/in/bia-amaral)**
  2. **[Camila Fersan](linkedin.com/in/camila-fernanda-santos)**
  3. **[Gabriela Cavalcante](linkedin.com/in/gabrielaacavalcante)**
- 4. **[Maryana Morato](linkedin.com/in/maryanamorato)** 
+ 4. **[Maryana Morato](https://www.linkedin.com/in/maryanamorato/)** 
  5. **[Talia Lino](linkedin.com/in/talia-lino-de-oliveira)** 
  
 #### O projeto
