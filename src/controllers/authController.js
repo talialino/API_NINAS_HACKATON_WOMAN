@@ -81,7 +81,6 @@ module.exports = {
       res.status(400).send({ error: 'Erro on forgot password, try again' });
     }
   },
-
   async newpass(req, res) {
     const { email, token, password } = req.body;
 
