@@ -4,11 +4,11 @@
 
  #### O que tem nessa API:
  - [x] Cadastro de usuário já criptografado
- - [x] Login na plataforma com token de  verificaçã
+ - [x] Login na plataforma com token de  verificação
  - [x] Envio de email para recuperação de senha
  - [ ] Redefinição de senha (em andamento)
  
-### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras na criação de suas Sturtups.
+### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras na criação de suas Sturtups!
 
 #### Idealizadoras:
  1. **[Bianca Amaral](linkedin.com/in/bia-amaral)**
