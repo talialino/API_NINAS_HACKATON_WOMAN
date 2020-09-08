@@ -11,11 +11,11 @@
 ### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras na criação de suas Sturtups!
 
 #### Idealizadoras:
- 1. **[Bianca Amaral](linkedin.com/in/bia-amaral)**
- 2. **[Camila Fersan](linkedin.com/in/camila-fernanda-santos)**
- 3. **[Gabriela Cavalcante](linkedin.com/in/gabrielaacavalcante)**
+ 1. **[Bianca Amaral](https://www.linkedin.com/in/bia-amaral/)**
+ 2. **[Camila Fersan](https://www.linkedin.com/in/camila-fernanda-santos/)**
+ 3. **[Gabriela Cavalcante](https://www.linkedin.com/in/gabrielaacavalcante/)**
  4. **[Maryana Morato](https://www.linkedin.com/in/maryanamorato/)** 
- 5. **[Talia Lino](linkedin.com/in/talia-lino-de-oliveira)** 
+ 5. **[Talia Lino](https://www.linkedin.com/in/talia-lino-de-oliveira/)** 
  
 #### O projeto
 
