@@ -1,13 +1,21 @@
 # API das Ninas!
 
-## Essa API foi feita para gerenciar a rede social Ninas! 
-### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras em sua criação de Sturtups.
+### Essa API foi feita para gerenciar a rede social Ninas :) 
 
  #### O que tem nessa API:
  - [x] Cadastro de usuário já criptografado
  - [x] Login na plataforma com token de  verificaçã
  - [x] Envio de email para recuperação de senha
  - [ ] Redefinição de senha (em andamento)
+ 
+### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras na criação de suas Sturtups.
+
+#### Idealizadoras:
+ 1. **[Bianca Amaral](linkedin.com/in/bia-amaral)**
+ 2. **[Camila Fersan](linkedin.com/in/camila-fernanda-santos)**
+ 3. **[Gabriela Cavalcante](linkedin.com/in/gabrielaacavalcante)**
+ 4. **[Maryana Morato](linkedin.com/in/maryanamorato)** 
+ 5. **[Talia Lino](linkedin.com/in/talia-lino-de-oliveira)** 
  
 #### O projeto
 
@@ -23,11 +31,6 @@ Nessa rede as mulheres irão encontrar ajuda para o seu empreendimento, desde li
 
 E por fim, depois que a mulher tiver segura de seu projeto e com um squad massa, ela poderá investir em seu negócio, mesmo que elas não tenham uma grande renda inicial, na rede social, será possível cadastrar a sua ideia, onde investidores terão acesso aos projetos, e poderão escolher aquele que mais se encaixa com o perfil de seu investimento, criando um tipo de match, uma ligação recíproca, liberando o acesso a comunicação com a idealizadora do projeto, onde os dois poderão negociar e seguir adiante com o projeto.
  
-#### Idealizadoras:
- 1. **[Bianca Amaral](linkedin.com/in/bia-amaral)**
- 2. **[Camila Fersan](linkedin.com/in/camila-fernanda-santos)**
- 3. **[Gabriela Cavalcante](linkedin.com/in/gabrielaacavalcante)**
- 4. **[Maryana Morato](linkedin.com/in/maryanamorato)** 
- 5. **[Talia Lino](linkedin.com/in/talia-lino-de-oliveira)** 
+
 
 
