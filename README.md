@@ -1,12 +1,20 @@
 # API das Ninas!
 
-### Essa API foi feita para gerenciar a rede social Ninas :) 
+### Essa API foi feita para gerenciar a rede social Ninas! A 6º colocada na semifinal do [Mega Hack Woman](https://www.megahackwomen.com.br/resultado/)
 
  #### O que tem nessa API:
  - [x] Cadastro de usuário já criptografado
  - [x] Login na plataforma com token de  verificação
  - [x] Envio de email para recuperação de senha
  - [ ] Redefinição de senha (em andamento)
+ 
+ #### Tecnologias utilizadas
+ - NodeJS
+ - Express
+ - MongoDB
+ - Docker
+ - JWT
+ - Cors
  
 ### Nosso obejtivo é criar uma plataforma que una, inspire e ajude as mulheres empreendedoras na criação de suas Sturtups!
 
