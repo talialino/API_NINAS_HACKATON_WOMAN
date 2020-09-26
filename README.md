@@ -1,6 +1,6 @@
 # API das Ninas!
 
-### Essa API foi feita para gerenciar a rede social Ninas! A 6º colocada na semifinal do [Mega Hack Woman](https://www.megahackwomen.com.br/resultado/)
+### Essa API foi feita para gerenciar a rede social Ninas! A 6º colocada, da empresa desafiadora MCTIC, na semifinal do [Mega Hack Woman!!](https://www.megahackwomen.com.br/resultado/)
 
  #### O que tem nessa API:
  - [x] Cadastro de usuário já criptografado
