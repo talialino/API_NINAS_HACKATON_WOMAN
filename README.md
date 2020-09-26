@@ -6,6 +6,7 @@
  - [x] Cadastro de usuário já criptografado
  - [x] Login na plataforma com token de  verificação
  - [x] Envio de email para recuperação de senha
+ - [x] Banco de dados MongoDB em Container da Docker
  - [ ] Redefinição de senha (em andamento)
  
  #### Tecnologias utilizadas
